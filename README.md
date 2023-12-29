@@ -1,5 +1,19 @@
 # etu_WEB_CW_2023
-Course work for the Web-technologies class in ETU uni
+Course work for the Web-technologies class in ETU uni. 
+
+## Notice
+_This code is for study purposes only._ It is a half-baked @D-game-monster of Frankenstein made in the panic right before the deadline so it could use **a lot** code improvements and needs some serios refactoring. But, **it works**.
+
+## Tasks
+1. Written in "pure" JS ES6 (debatable)
+2. Two game levels minimum
+3. All managers from the "textbook" must be included
+4. Scores Table (nope)
+5. Obstacles
+6. "Intellectual" enemies and "bonuses"
+7. Use Tiled Map Editor
+
+**DONE: 6/7**
 
 ## Things to improve
 1. Implement correct Game Over logic
