@@ -80,7 +80,7 @@ function startLoop(game) { // start game loop
 
 ## Things to improve
 1. Implement correct Game Over logic
-2. Game Stats bar in the separate(?) <canvas> on the left
+2. Game Stats bar in the separate(?) canvas on the left
 3. Score Table at the end of the game
 4. Diffirentate Enemy behavior depending on the Enemy type
 5. _There is a bug when you open the game again after loosing - Player is dying in one hit_
