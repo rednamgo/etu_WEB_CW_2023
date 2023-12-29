@@ -2,7 +2,7 @@
 Course work for the Web-technologies class in ETU uni. 
 
 ## Notice
-_This code is for study purposes only._ It is a half-baked 2D-game-monster-of-Frankenstein made in the panic right before the deadline so it could use **a lot** of code improvements and needs some serios refactoring. But, **it works**.
+_This code is for study purposes only._ It is a half-baked 2D-game-monster-of-Frankenstein made in the panic right before the deadline so it could use **a lot** of code improvements and needs some serious refactoring. But, **it works**.
 
 ## Tasks
 1. Written in "pure" JS ES6 (debatable)
@@ -87,7 +87,7 @@ function startLoop(game) { // start game loop
 6. _There is some sprite display bug, seems to be a scaling issue - there are lines along the borders sometimes_
 7. Use game time as multiplicator for the final score to inspire more competitive behavior
 8. Flip the Entity sprite when it movemend direction along the X axis changes (flipped sprites included in the assets folder already)
-9. Use more promises & generally improve async behavior
+9. Generally improve async behavior
 
 ## Sources and useful materials
 - General:
