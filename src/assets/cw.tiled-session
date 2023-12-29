@@ -1,0 +1,196 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "lvl1.tmj",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#1 - Transparent Icons.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#1 - Transparent Icons.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "AnimationSheet_Character.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Cave Spider Spritesheet.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "F:/Tiled/examples/desert.tsx": {
+            "scaleInDock": 1
+        },
+        "TX Plant.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TX Plant.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TX Props.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TX Props.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 0.75
+        },
+        "TX Tileset Grass.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TX Tileset Grass.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TX Tileset Wall.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "TX Tileset Wall.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Undead_pumpking_Sprites.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Undead_pumpking_Sprites.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "character_tileset.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "lvl1.tmj": {
+            "expandedObjectLayers": [
+                6,
+                7,
+                5
+            ],
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 155,
+                "y": 160
+            }
+        },
+        "lvl1.tmx": {
+            "expandedObjectLayers": [
+                4,
+                5,
+                6,
+                7,
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 160,
+                "y": 159.75
+            }
+        },
+        "lvl1.tmx#TX Props": {
+            "dynamicWrapping": true
+        },
+        "lvl2.tmj": {
+            "expandedObjectLayers": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 126.5,
+                "y": 181.5
+            }
+        },
+        "lvl2.tmx": {
+            "expandedObjectLayers": [
+                4,
+                5,
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 160,
+                "y": 160.33333333333334
+            }
+        },
+        "tileset.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tmw_desert_spacing.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        }
+    },
+    "frame.defaultDuration": 100,
+    "last.externalTilesetPath": "D:/Personal/Uni/лэти/пересдачи_5сем/cw_tiles",
+    "last.imagePath": "D:/Personal/Uni/лэти/пересдачи_5сем/cw_tiles/assets/Texture",
+    "map.height": 10,
+    "map.lastUsedFormat": "json",
+    "map.width": 10,
+    "openFiles": [
+        "lvl1.tmj",
+        "lvl2.tmj",
+        "#1 - Transparent Icons.tsj",
+        "Cave Spider Spritesheet.tsj",
+        "TX Tileset Wall.tsj",
+        "TX Props.tsj",
+        "TX Plant.tsj"
+    ],
+    "project": "cw.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "TX Plant.tsj",
+        "TX Props.tsj",
+        "TX Tileset Wall.tsj",
+        "Cave Spider Spritesheet.tsj",
+        "#1 - Transparent Icons.tsj",
+        "lvl2.tmj",
+        "lvl1.tmj",
+        "lvl2.tmx",
+        "lvl1.tmx",
+        "tileset.tsj",
+        "TX Tileset Grass.tsj",
+        "Undead_pumpking_Sprites.tsj"
+    ],
+    "tileset.lastUsedFilter": "JSON файлы с наборами тайлов (*.tsj *.json)",
+    "tileset.lastUsedFormat": "json",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.type": 0,
+    "tileset.useTransparentColor": true
+}

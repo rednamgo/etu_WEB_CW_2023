@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>CW</title>
+        <link rel="stylesheet" href="./css/style.css">
+    </head>
+    <body>        
+        <section id="loginScreen">
+            <div class="center">
+                <div>
+                    <label for="nameInput">Input player name:</label>
+                    <input type="text" id="nameInput" placeholder="username"/>
+                    <br/>
+                    <button>Start!</button>
+                </div>
+            </div>
+        </section>
+
+        <section id="game">
+            <div class="center">
+                <canvas id="canvas" class="game-canvas" height="640" width="640"></canvas> <!--class="game-canvas" -->
+            </div>
+        </section>
+
+        <!--section id="recordTable">
+            <div class="center">
+                <div class="record-panel">
+                    <span>Record Table</span>
+                    <ol></ol>
+                </div>
+            </div>
+        </section-->
+
+        <section id="recordTable">
+            <div class="center">
+                <div class="record-panel">
+                    <table>
+                        <thead>
+                        <tr>
+                            <td><span>Player</span></td>
+                            <td><span>Points</span></td>
+                        </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <script src="index.js" type="module"></script>
+    </body>
+    
+</html>
