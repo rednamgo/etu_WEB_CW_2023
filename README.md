@@ -83,11 +83,12 @@ function startLoop(game) { // start game loop
 2. Game Stats bar in the separate(?) canvas on the left
 3. Score Table at the end of the game
 4. Diffirentate Enemy behavior depending on the Enemy type
-5. _There is a bug when you open the game again after loosing - Player is dying in one hit_
-6. _There is some sprite display bug, seems to be a scaling issue - there are lines along the borders sometimes_
-7. Use game time as multiplicator for the final score to inspire more competitive behavior
-8. Flip the Entity sprite when it movemend direction along the X axis changes (flipped sprites included in the assets folder already)
-9. Generally improve async behavior
+5. Implement raycasting akin to [2D raycaster](https://codepen.io/danielisaksson/pen/Drqagw) for the field of view for the enemy
+6. _There is a bug when you open the game again after loosing - Player is dying in one hit_
+7. _There is some sprite display bug, seems to be a scaling issue - there are lines along the borders sometimes_
+8. Use game time as multiplicator for the final score to inspire more competitive behavior
+9. Flip the Entity sprite when it movemend direction along the X axis changes (flipped sprites included in the assets folder already)
+10. Generally improve async behavior
 
 ## Sources and useful materials
 - General:
