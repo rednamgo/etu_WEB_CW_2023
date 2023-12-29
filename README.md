@@ -1,6 +1,15 @@
 # etu_WEB_CW_2023
 Course work for the Web-technologies class in ETU uni
 
+## Things to improve
+1. Implement correct Game Over logic
+2. Game Stats bar in the separate(?) <canvas> on the left
+3. Score Table at the end of the game
+4. Diffirentate Enemy behavior depending on the Enemy type
+5. _There is a bug when you open the game again after loosing - Player is dying in one hit_
+6. Use game time as multiplicator for the final score to inspire more competitive behavior
+7. Flip the Entity sprite when it movemend direction along the X axis changes (flipped sprites included in the assets folder already)
+
 ## Sources and useful materials
 - General:
   - [Tiled Map Editor](www.mapeditor.org)
